@@ -1,0 +1,5 @@
+name: "Christopher Daniel Jimenez Bautista"
+project: "Calculadora Docker"
+version: "1.0.0"
+description: "Calculadora simple en Python empaquetada en Docker."
+date: "2025-11-06"
